@@ -1,3 +1,6 @@
-﻿  myStack.cpp
+﻿  Source.cpp
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_MYSTACK\Source.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  myStack.cpp
+  Generating Code...
 C:\Users\User\Desktop\projects_c++\HW_OOP\HW_MYSTACK\myStack.cpp(52): warning C4715: 'myStack::pop': not all control paths return a value
   HW_MYSTACK.vcxproj -> C:\Users\User\Desktop\projects_c++\HW_OOP\x64\Debug\HW_MYSTACK.exe

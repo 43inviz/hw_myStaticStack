@@ -23,7 +23,7 @@ bool myStack::isEmpty()
 void myStack::addInStack(char ch)
 {
 	if (!isFull()) {
-		arr[FULL] = '\0';
+	
 		top++;
 		arr[top] = ch;
 		

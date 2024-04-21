@@ -4,7 +4,7 @@
 class myStack
 {
 	enum{EMPTY = -1, FULL = 20};// enum перечисление, в скобках писать константы
-	char arr[FULL + 1];
+	char arr[FULL+1];
 	int top;
 public:
 	
